@@ -19,4 +19,4 @@ cd /root
 curl -O https://static.rust-lang.org/rustup.sh
 chmod a+x rustup.sh
 
-./rustup.sh
+./rustup.sh --channel=nightly
